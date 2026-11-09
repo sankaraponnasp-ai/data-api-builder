@@ -1,0 +1,15 @@
+{
+	"name": "ADF-WWI-DEMO",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d2f4a16-d76e-4282-89d0-2f701b3d7813",
+		"tenantId": "bdbca01a-900d-4d44-a9c3-fa7a7faa34d5"
+	}
+}
